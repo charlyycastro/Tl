@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 
 st.title("Aprendizaje no supervizado: k-means")
-st.subheader("By Oziel Velazquez ITC")
+st.subheader("By Carlos Alberto Luna 744849")
 st.subheader("cargar datos")
 
 uploaded_file = st.file_uploader("Sube un archivo CSV con tus datos", type=["csv"])
